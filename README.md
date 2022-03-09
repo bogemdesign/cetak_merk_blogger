@@ -1,5 +1,5 @@
 # cetak_merk_blogger
-# versi 1.0 update tanggal 9 maret 2022 
+# versi 1.0 update tanggal 9 maret 2022  kerangka tampalate 
 detail.. 
 belum belum seo , kecepatan perayapan masih di bawah 90 dari test page google . 
 tampilan belum optimal
